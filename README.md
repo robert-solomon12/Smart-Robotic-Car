@@ -25,7 +25,7 @@ The Project that I'm going to propose is a Robotic Car controlled by a Smartphon
 - 1 x UNO R3 Board
 - 1 x IO Expansion Board
 - 1 x Bluetooth Module
--	ELEGOO BLE Tool Application <br> Optional </br>
+-	ELEGOO BLE Tool Application <br> Optional <br>
 
   
 <br> Should you have any problems, don't hesitate to contact me on my email at:</br> [20079462@mail.wit.ie](mailto:20079462@mail.wit.ie)
