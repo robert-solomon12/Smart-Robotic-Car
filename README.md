@@ -23,6 +23,7 @@ The Project that I'm going to propose is a Robotic Car controlled by a Smartphon
 - 3 x M3 Nuts
 - 1 x Acrylic Chassis
 - 1 x UNO R3 Board
+- 1 x Ultrasonic Sensor 
 - 1 x IO Expansion Board
 - 1 x Bluetooth Module
 -	ELEGOO BLE Tool Application <br> Optional <br>
