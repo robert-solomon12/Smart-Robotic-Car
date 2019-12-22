@@ -54,14 +54,6 @@ Under this mode the Robotic Car will be able to automatically detect obstacles a
 - Line-Tracking Mode: 
 
 The line tracking modules at the bottom of the car make sure it follows the runway you design with its infrared transmitter tube and an infrared receiver tube. Make sure your runway is clear enough and long enough then you can enjoy a wonderful car racing show. This mode only becomes available when the #4 key on the IR-Remote is pressed.
-  
-
-
-
-
-
-<br> Should you have any problems, don't hesitate to contact me on my email at:</br> [20079462@mail.wit.ie](mailto:20079462@mail.wit.ie)
-<br>or if you find a bug </br>[open up an issue here](https://github.com/robertsolomon97/Smart-Robotic-Car/issues)
 
 # Acknowledgements
 Assistance for this Project can be found on the [Elegoo Website](www.elegoo.com) and the Lesson Notes in the invidual Folders uploaded above.
@@ -69,4 +61,7 @@ Assistance for this Project can be found on the [Elegoo Website](www.elegoo.com)
 # FUTURE DEVELOPMENTS
 In future updates, I will hope to achieve further functionalities and capabilities with this Arduino-based Project.
 
-# Enjoy!!
+
+
+<br> Should you have any problems, don't hesitate to contact me on my email at:</br> [20079462@mail.wit.ie](mailto:20079462@mail.wit.ie)
+<br>or if you find a bug </br>[open up an issue here](https://github.com/robertsolomon97/Smart-Robotic-Car/issues)
