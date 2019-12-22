@@ -63,5 +63,10 @@ The line tracking modules at the bottom of the car make sure it follows the runw
 <br> Should you have any problems, don't hesitate to contact me on my email at:</br> [20079462@mail.wit.ie](mailto:20079462@mail.wit.ie)
 <br>or if you find a bug </br>[open up an issue here](https://github.com/robertsolomon97/Smart-Robotic-Car/issues)
 
+# Acknowledgements
+Assistance for this Project can be found on the [Elegoo Website](www.elegoo.com) and the notes in the invidual Folders uploaded above.
+
+# FUTURE DEVELOPMENTS
+In future updates, I will hope to achieve further functionalities and capabilities with this Arduino-based Project.
 
 # Enjoy!!
