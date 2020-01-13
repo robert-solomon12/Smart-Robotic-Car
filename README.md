@@ -34,7 +34,6 @@ The Project that I'm going to propose is a Robotic Car controlled by an IR Remot
 
 
 
-
 # Functionality of the Project
 - Bluetooth Mode: 
 
@@ -48,12 +47,25 @@ Under this mode, the Robot is controlled via the IR-Remote Control. When a forwa
 
 - Obstactle-Avoidance Mode: 
 
-Under this mode the Robotic Car will be able to automatically detect obstacles ahead of it no matter which direction it is coming from with the ultrasonic sensors on the platform by sending waves and calculating the distance as Ultrasonic Sensor emit sound waves at a frequency too high for humans to hear. They then wait for the sound to be reflected back, calculating distance based on the time required. This will give the robot the ability to be autonomous. (make its own decisions) This mode only becomes available when the #3 key on the IR-Remote is pressed. 
+Under this mode the Robotic Car will be able to automatically detect obstacles ahead of it no matter which direction it is coming from with the ultrasonic sensors on the platform by sending waves and calculating the distance as Ultrasonic Sensor emit sound waves at a frequency too high for humans to hear. They then wait for the sound to be reflected back, calculating distance based on the time required. This will give the robot the ability to be autonomous. (make its own decisions) This mode only becomes available when the #3 key on the IR-Remote is pressed. The following UML Design illustrates
+
+<img src="IMG/Obstacle-Avoidance-Diagram.png" height="700" width="900">
+
+
+
+
 
 
 - Line-Tracking Mode: 
 
 The line tracking modules at the bottom of the car make sure it follows the runway you design with its infrared transmitter tube and an infrared receiver tube. Make sure your runway is clear enough and long enough then you can enjoy a wonderful car racing show. This mode only becomes available when the #4 key on the IR-Remote is pressed.
+
+<img src="IMG/Line-Tracking-Digram.png" height="700" width="900">
+
+
+
+
+
 
 # Acknowledgements
 Assistance for this Project can be found on the [Elegoo Website](www.elegoo.com) and the Lesson Notes in the invidual Folders uploaded above.
