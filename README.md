@@ -68,7 +68,7 @@ The line tracking modules at the bottom of the car make sure it follows the runw
 
 
 # Acknowledgements
-Assistance for this Project can be found on the [Elegoo Website](www.elegoo.com) and the Lesson Notes in the invidual Folders uploaded above.
+Assistance for this Project can be found on the [Elegoo Website](https://www.elegoo.com/) and the Lesson Notes in the invidual Folders uploaded above.
 
 # FUTURE DEVELOPMENTS
 In future updates, I will hope to achieve further functionalities and capabilities with this Arduino-based Project.
