@@ -1,4 +1,9 @@
-//www.elegoo.com
+
+/*
+  Author: Robert Solomon
+  Curtesy of Elegoo.com
+*/
+
 #include <Servo.h>
 Servo myservo;
 
