@@ -1,4 +1,6 @@
-//www.elegoo.com
+/*
+  Author: Robert Solomon
+*/
 
 //Line Tracking IO define
 #define LT_R !digitalRead(10)
