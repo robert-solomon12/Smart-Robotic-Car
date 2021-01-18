@@ -1,3 +1,9 @@
+
+/*
+  Author: Robert Solomon
+  Curtesy of Elegoo.com
+*/
+
 #ifndef MsTimer2_h
 #define MsTimer2_h
 
