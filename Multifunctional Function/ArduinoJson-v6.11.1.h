@@ -1,5 +1,11 @@
 // ArduinoJson - arduinojson.org
 // Copyright Benoit Blanchon 2014-2019
+
+/*
+  Author: Robert Solomon
+  Curtesy of Elegoo.com
+*/
+
 // MIT License
 
 #pragma once
