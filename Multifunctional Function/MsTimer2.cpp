@@ -1,3 +1,9 @@
+
+/*
+  Author: Robert Solomon
+  Curtesy of Elegoo.com
+*/
+
 #include "MsTimer2.h"
 
 unsigned long MsTimer2::msecs;
