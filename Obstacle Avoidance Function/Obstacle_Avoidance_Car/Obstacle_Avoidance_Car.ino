@@ -1,4 +1,8 @@
-//www.elegoo.com
+
+/*
+  Author: Robert Solomon
+  Curtesy of Elegoo.com
+*/
 
 #include <Servo.h>  //servo library
 Servo myservo;      // create servo object to control servo
